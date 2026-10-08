@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Daily</title>
+    <link>https://tarnoff.github.io/ai-daily/</link>
+    <atom:link href="https://tarnoff.github.io/ai-daily/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A two-host daily briefing on AI, including health.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Oct 2026 23:10:08 +0200</lastBuildDate>
+    <itunes:author>Jeffrey Tarnoff</itunes:author>
+    <itunes:summary>A two-host daily briefing on AI, including health.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://tarnoff.github.io/ai-daily/cover.jpg"/>
+    <image>
+      <url>https://tarnoff.github.io/ai-daily/cover.jpg</url>
+      <title>AI Daily</title>
+      <link>https://tarnoff.github.io/ai-daily/</link>
+    </image>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>AI Daily, October 8, 2026: GPT-6 for everyone, Gemini's agent coworker, and an FDA-cleared autism aid</title>
+      <description>Andrew and Ava cover GPT-6 and Intelligent UI rolling out across ChatGPT, Google's Gemini workplace agent, Anthropic's Claude Haiku 5.5, Microsoft and Nvidia's RTX Spark PCs, OpenAI's 372 math results, two disrupted influence operations, and new scrutiny of AI agents in the UK and Australia. In health: FDA clearance for the Neurora autism diagnosis aid, Healthleap's malnutrition-flagging AI, Teladoc's camera-based vitals, a sepsis prediction reality check, and FDA's generative AI device consultation.</description>
+      <pubDate>Thu, 08 Oct 2026 23:10:08 +0200</pubDate>
+      <guid isPermaLink="true">https://tarnoff.github.io/ai-daily/episodes/2026-10-08-ai-daily.mp3</guid>
+      <enclosure url="https://tarnoff.github.io/ai-daily/episodes/2026-10-08-ai-daily.mp3" length="8733632" type="audio/mpeg"/>
+      <itunes:duration>18:12</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
