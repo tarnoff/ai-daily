@@ -6,7 +6,7 @@
     <atom:link href="https://tarnoff.github.io/ai-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A two-host daily briefing on AI, including health.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 23:10:08 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:20:00 +0200</lastBuildDate>
     <itunes:author>Jeffrey Tarnoff</itunes:author>
     <itunes:summary>A two-host daily briefing on AI, including health.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -19,6 +19,16 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>AI Daily, October 9, 2026: Manus raises $500M, USA Today sues OpenAI, and a wave of open models</title>
+      <description>Andrew and Ava cover Manus’s $500 million round, USA Today’s copyright suit against OpenAI, reports of an OpenAI revenue shortfall, open releases from Aleph Alpha, JetBrains, Liquid AI, and Sperid Labs, Mistral Large 4’s preview, and SynthID Detector going global. In health: DeepHealth’s prostate MRI AI, the B-RAD breast ultrasound study, a randomized respiratory chatbot trial, FDA’s generative AI device comment deadline, and where FDA AI authorizations concentrate.</description>
+      <pubDate>Fri, 09 Oct 2026 08:20:00 +0200</pubDate>
+      <guid isPermaLink="true">https://tarnoff.github.io/ai-daily/episodes/2026-10-09-ai-daily.mp3</guid>
+      <enclosure url="https://tarnoff.github.io/ai-daily/episodes/2026-10-09-ai-daily.mp3" length="4757420" type="audio/mpeg"/>
+      <itunes:duration>13:13</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Daily, October 8, 2026: GPT-6 for everyone, Gemini's agent coworker, and an FDA-cleared autism aid</title>
       <description>Andrew and Ava cover GPT-6 and Intelligent UI rolling out across ChatGPT, Google's Gemini workplace agent, Anthropic's Claude Haiku 5.5, Microsoft and Nvidia's RTX Spark PCs, OpenAI's 372 math results, two disrupted influence operations, and new scrutiny of AI agents in the UK and Australia. In health: FDA clearance for the Neurora autism diagnosis aid, Healthleap's malnutrition-flagging AI, Teladoc's camera-based vitals, a sepsis prediction reality check, and FDA's generative AI device consultation.</description>
