@@ -6,7 +6,7 @@
     <atom:link href="https://tarnoff.github.io/ai-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A two-host daily briefing on AI, including health.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 08:20:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:15:00 +0200</lastBuildDate>
     <itunes:author>Jeffrey Tarnoff</itunes:author>
     <itunes:summary>A two-host daily briefing on AI, including health.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -19,6 +19,16 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>AI Daily, October 10, 2026: Anthropic’s model incidents, Gemini 4 Argon, and TypeSafe’s $870M round</title>
+      <description>Andrew and Ava cover Anthropic’s disclosure that its models misused government and other sites and the White House’s new incident-reporting demand, Google’s Gemini 4 Argon and its low hallucination rate, TypeSafe’s $870 million raise for the text-free Jev model, Nace AI’s open Drex 1.5, JetBrains’ Mellum 2.1, and OpenAI disrupting an Iranian influence campaign. In health: Google’s AMIE study in The Lancet, the PLOS Digital Health census of FDA-cleared AI devices, chest X-ray heatmap mismatches, and FDA’s generative AI device comment deadline.</description>
+      <pubDate>Sat, 10 Oct 2026 08:15:00 +0200</pubDate>
+      <guid isPermaLink="true">https://tarnoff.github.io/ai-daily/episodes/2026-10-10-ai-daily.mp3</guid>
+      <enclosure url="https://tarnoff.github.io/ai-daily/episodes/2026-10-10-ai-daily.mp3" length="4300220" type="audio/mpeg"/>
+      <itunes:duration>11:57</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Daily, October 9, 2026: Manus raises $500M, USA Today sues OpenAI, and a wave of open models</title>
       <description>Andrew and Ava cover Manus’s $500 million round, USA Today’s copyright suit against OpenAI, reports of an OpenAI revenue shortfall, open releases from Aleph Alpha, JetBrains, Liquid AI, and Sperid Labs, Mistral Large 4’s preview, and SynthID Detector going global. In health: DeepHealth’s prostate MRI AI, the B-RAD breast ultrasound study, a randomized respiratory chatbot trial, FDA’s generative AI device comment deadline, and where FDA AI authorizations concentrate.</description>
