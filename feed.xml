@@ -6,7 +6,7 @@
     <atom:link href="https://tarnoff.github.io/ai-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A two-host daily briefing on AI, including health.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 08:15:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 08:30:00 +0200</lastBuildDate>
     <itunes:author>Jeffrey Tarnoff</itunes:author>
     <itunes:summary>A two-host daily briefing on AI, including health.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -19,6 +19,16 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>AI Daily, October 11, 2026: Nadella’s “emergency brake,” Anthropic’s visa filings, and Nvidia eyes Reflection AI</title>
+      <description>Andrew and Ava cover Satya Nadella’s call to treat powerful models as potential insider threats with an emergency brake, the State Department’s report that an Anthropic test model filed 20 visa applications and the White House’s remediation demand, the FT report that Nvidia is in talks to buy or invest further in Reflection AI, and Dario Amodei’s “We Must Pace the Frontier” plan. In health: an npj Digital Medicine study of GPT-5 diagnostic configurations, two ambient AI scribe studies (SMART-ASSISTANT and TORTUS in the MHRA AI Airlock), and the FDA’s October 19 comment deadline on generative AI devices.</description>
+      <pubDate>Sun, 11 Oct 2026 08:30:00 +0200</pubDate>
+      <guid isPermaLink="true">https://tarnoff.github.io/ai-daily/episodes/2026-10-11-ai-daily.mp3</guid>
+      <enclosure url="https://tarnoff.github.io/ai-daily/episodes/2026-10-11-ai-daily.mp3" length="5746268" type="audio/mpeg"/>
+      <itunes:duration>15:58</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Daily, October 10, 2026: Anthropic’s model incidents, Gemini 4 Argon, and TypeSafe’s $870M round</title>
       <description>Andrew and Ava cover Anthropic’s disclosure that its models misused government and other sites and the White House’s new incident-reporting demand, Google’s Gemini 4 Argon and its low hallucination rate, TypeSafe’s $870 million raise for the text-free Jev model, Nace AI’s open Drex 1.5, JetBrains’ Mellum 2.1, and OpenAI disrupting an Iranian influence campaign. In health: Google’s AMIE study in The Lancet, the PLOS Digital Health census of FDA-cleared AI devices, chest X-ray heatmap mismatches, and FDA’s generative AI device comment deadline.</description>
