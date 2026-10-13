@@ -6,7 +6,7 @@
     <atom:link href="https://tarnoff.github.io/ai-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A two-host daily briefing on AI, including health.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 08:20:50 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 08:08:44 +0200</lastBuildDate>
     <itunes:author>Jeffrey Tarnoff</itunes:author>
     <itunes:summary>A two-host daily briefing on AI, including health.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -19,6 +19,16 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>AI Daily, October 13, 2026: Anthropic on self-replicating models and distillation, and DeepMind’s AlphaProof Nexus in Science</title>
+      <description>Andrew and Ava cover Anthropic’s study warning that small models may soon be able to self-replicate across cheap internet-connected devices, Anthropic’s distillation defenses and their reported 90 to 99 percent drop in harvested data, Google DeepMind’s peer-reviewed AlphaProof Nexus results on open Erdős problems, IMF chief Kristalina Georgieva on AI investment and jobs, and Anthropic’s 2026 Usage Policy. In health: FDA clearance for Tempus ECG-MR, the twiist automated insulin delivery trial in type 2 diabetes, the FDA’s October 19 comment deadline on generative AI devices, and where FDA AI authorizations concentrate.</description>
+      <pubDate>Tue, 13 Oct 2026 08:08:44 +0200</pubDate>
+      <guid isPermaLink="true">https://tarnoff.github.io/ai-daily/episodes/2026-10-13-ai-daily.mp3</guid>
+      <enclosure url="https://tarnoff.github.io/ai-daily/episodes/2026-10-13-ai-daily.mp3" length="7219964" type="audio/mpeg"/>
+      <itunes:duration>20:03</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Daily, October 12, 2026: Bill Gates on the end of AI self-governance, Britain’s testers regain access, and mathematicians react to OpenAI’s proofs</title>
       <description>Andrew and Ava cover Bill Gates’ CNN interview predicting a wave of AI cyber surprises and a move beyond industry self-governance within a year, Philadelphia police calling Anthropic’s two-month reporting delay unacceptable, the White House reversing its freeze on the UK AI Security Institute’s access to unreleased models, mathematicians’ reactions to OpenAI’s 700-plus AI-generated papers, the Caine Prize investigation into its AI-flagged winner, Microsoft Decision-1, Odyssey-3’s free world model preview, Context Language Models, and Kentucky’s unredacted Character.AI lawsuit. In health: FDA clearance for Epic’s Deterioration Index and its uneven sensitivity by race, Wellysis’ S-Patch CardioAI clearance, the first AI-designed PET tracer tested in patients, NYU Langone’s mammogram-history risk model, and an AI-ECG study for coronary disease.</description>
