@@ -6,7 +6,7 @@
     <atom:link href="https://tarnoff.github.io/ai-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A two-host daily briefing on AI, including health.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 08:08:44 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:15:06 +0200</lastBuildDate>
     <itunes:author>Jeffrey Tarnoff</itunes:author>
     <itunes:summary>A two-host daily briefing on AI, including health.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -19,6 +19,16 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>AI Daily, October 14, 2026: Meta’s Muse Wonder, Gemini 4 Argon for everyone, and an arrest over a bug in OpenAI’s boardroom</title>
+      <description>Andrew and Ava cover Meta’s closed-weight Muse Wonder and Muse Wonder Full frontier models, Google’s general release of Gemini 4 Argon and its pricing, the FBI arrest of an OpenAI engineer over a hidden listening device, the UK hearing where OpenAI and Anthropic backed binding rules while Google DeepMind and Meta didn’t, new transparency and enforcement pushes from Singapore, the EU AI Office, the White House task force, and Massachusetts, Microsoft’s Maia 300 chip, the IMF’s warning on an AI share crash, Anthropic’s Opaque deal, Liquid AI’s open LFM2.5-24B-A2B, and Xbox Labs. In health: the SCARLET-1 prostate MRI study in Radiology, DeepCORO-CLIP for whole-angiogram interpretation, Penn’s conversational epilepsy platform in Nature Medicine, adapting adult X-ray AI for newborns, and the FDA’s October 19 comment deadline on generative AI devices.</description>
+      <pubDate>Wed, 14 Oct 2026 08:15:06 +0200</pubDate>
+      <guid isPermaLink="true">https://tarnoff.github.io/ai-daily/episodes/2026-10-14-ai-daily.mp3</guid>
+      <enclosure url="https://tarnoff.github.io/ai-daily/episodes/2026-10-14-ai-daily.mp3" length="7301468" type="audio/mpeg"/>
+      <itunes:duration>20:17</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Daily, October 13, 2026: Anthropic on self-replicating models and distillation, and DeepMind’s AlphaProof Nexus in Science</title>
       <description>Andrew and Ava cover Anthropic’s study warning that small models may soon be able to self-replicate across cheap internet-connected devices, Anthropic’s distillation defenses and their reported 90 to 99 percent drop in harvested data, Google DeepMind’s peer-reviewed AlphaProof Nexus results on open Erdős problems, IMF chief Kristalina Georgieva on AI investment and jobs, and Anthropic’s 2026 Usage Policy. In health: FDA clearance for Tempus ECG-MR, the twiist automated insulin delivery trial in type 2 diabetes, the FDA’s October 19 comment deadline on generative AI devices, and where FDA AI authorizations concentrate.</description>
