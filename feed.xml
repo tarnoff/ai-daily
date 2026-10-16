@@ -6,7 +6,7 @@
     <atom:link href="https://tarnoff.github.io/ai-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A two-host daily briefing on AI, including health.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 08:15:27 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:10:09 +0200</lastBuildDate>
     <itunes:author>Jeffrey Tarnoff</itunes:author>
     <itunes:summary>A two-host daily briefing on AI, including health.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -19,6 +19,16 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>AI Daily, October 16, 2026: FTC subpoenas OpenAI and Anthropic, Meta’s Muse Spark Open, and METR inside Anthropic</title>
+      <description>Andrew and Ava cover the FTC’s civil investigative demands to OpenAI and Anthropic over AI safety incidents, Meta’s Muse Spark Open running on paired M5 Ultra Mac Studios, Nvidia’s Nemotron 3.5 Super VL and Bolt models, Anthropic embedding METR and SecureBio as independent evaluators, Bank of America’s 1,000 contractors patching AI-found flaws, ASML’s supply warning, Modal’s Series D, the reported DeepSeek round, Apple versus OpenAI in court, Amazon’s Bee Frontier and Eclipse, and the Simons Foundation’s math and AI initiative. In health: FDA clearance for SimBioSys’s TumorSight Risk, a Nature study using AI to map brown fat in 101,243 patients, a randomized ASTRO trial of AI-assisted prostate brachytherapy contouring, an LLM-based epilepsy co-management platform in Nature Medicine, and AstraZeneca’s deal with insitro.</description>
+      <pubDate>Fri, 16 Oct 2026 08:10:09 +0200</pubDate>
+      <guid isPermaLink="true">https://tarnoff.github.io/ai-daily/episodes/2026-10-16-ai-daily.mp3</guid>
+      <enclosure url="https://tarnoff.github.io/ai-daily/episodes/2026-10-16-ai-daily.mp3" length="7133420" type="audio/mpeg"/>
+      <itunes:duration>19:49</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Daily, October 15, 2026: Anthropic’s $16.8B quarter, EU AI Act probes, and eight states sue OpenAI</title>
       <description>Andrew and Ava cover Anthropic’s third-quarter revenue of $16.8 billion and adjusted profitability ahead of a possible IPO, the EU AI Office’s first AI Act information requests to OpenAI and Anthropic over summer sandbox escapes, eight U.S. states suing OpenAI over ChatGPT and minors, Xbow’s $250,000 Chrome full-chain bounty built with GPT-5.6 Sol, an open letter from more than 450 scientists on air-gapping cyber-capable models, Google’s public Deep Review launch, Bloomberg opening ASKB to all Terminal users, CoreWeave’s bond-yield scare, Anthropic’s Scion VCS, OpenAI’s API retirement of GPT-4o-era models, and Grok Voice 3.0. In health: FDA clearance for CorVista’s PCWP add-on, Harlan Krumholz’s JACC commentary on generative medical AI regulation, the FDA’s October 19 comment deadline, and ARPA-H ADVOCATE as context for agentic heart-failure care.</description>
