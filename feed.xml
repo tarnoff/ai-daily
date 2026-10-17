@@ -6,7 +6,7 @@
     <atom:link href="https://tarnoff.github.io/ai-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A two-host daily briefing on AI, including health.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 08:10:09 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 08:13:27 +0200</lastBuildDate>
     <itunes:author>Jeffrey Tarnoff</itunes:author>
     <itunes:summary>A two-host daily briefing on AI, including health.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -19,6 +19,16 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>AI Daily, October 17, 2026: Anthropic’s draft safety bill, Reflection’s open Beam model, and Claude cracks the NIST curve seeds</title>
+      <description>Andrew and Ava cover Anthropic’s draft federal AI safety bill and the first meeting of the White House Super Intelligence Force, Reflection AI’s Apache-licensed 501-billion-parameter Beam model, Claude tracing the NIST ECDSA curve seeds to a timestamp-seeded lrand48 generator, China’s draft export controls on 23 AI technologies and Taiwan’s planned AI chip curbs, Anthropic’s reported $60 billion TPU debt package with Blackstone, Anthropic’s reports on junior hiring and staff versus public expectations, Replit’s disputed split from Anthropic, PostgreSQL 19’s delay after LLM-assisted code review, Apple’s new App Store rules on nudify apps, and AI-generated campaign ads. In health: Penn Medicine’s Percival CT model, a face-and-tongue photo study for coronary heart disease, smartphone screening of children’s lung sounds, OpenAI’s Rosalind Academic Plan, and the FDA’s October 19 comment deadline on generative AI devices.</description>
+      <pubDate>Sat, 17 Oct 2026 08:13:27 +0200</pubDate>
+      <guid isPermaLink="true">https://tarnoff.github.io/ai-daily/episodes/2026-10-17-ai-daily.mp3</guid>
+      <enclosure url="https://tarnoff.github.io/ai-daily/episodes/2026-10-17-ai-daily.mp3" length="7729580" type="audio/mpeg"/>
+      <itunes:duration>21:28</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Daily, October 16, 2026: FTC subpoenas OpenAI and Anthropic, Meta’s Muse Spark Open, and METR inside Anthropic</title>
       <description>Andrew and Ava cover the FTC’s civil investigative demands to OpenAI and Anthropic over AI safety incidents, Meta’s Muse Spark Open running on paired M5 Ultra Mac Studios, Nvidia’s Nemotron 3.5 Super VL and Bolt models, Anthropic embedding METR and SecureBio as independent evaluators, Bank of America’s 1,000 contractors patching AI-found flaws, ASML’s supply warning, Modal’s Series D, the reported DeepSeek round, Apple versus OpenAI in court, Amazon’s Bee Frontier and Eclipse, and the Simons Foundation’s math and AI initiative. In health: FDA clearance for SimBioSys’s TumorSight Risk, a Nature study using AI to map brown fat in 101,243 patients, a randomized ASTRO trial of AI-assisted prostate brachytherapy contouring, an LLM-based epilepsy co-management platform in Nature Medicine, and AstraZeneca’s deal with insitro.</description>
