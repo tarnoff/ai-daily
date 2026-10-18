@@ -6,7 +6,7 @@
     <atom:link href="https://tarnoff.github.io/ai-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A two-host daily briefing on AI, including health.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 08:13:27 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 08:11:59 +0200</lastBuildDate>
     <itunes:author>Jeffrey Tarnoff</itunes:author>
     <itunes:summary>A two-host daily briefing on AI, including health.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -19,6 +19,16 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>AI Daily, October 18, 2026: DeepSeek’s cheaper Flash and search API, more rogue test agents, and Meta’s scraping terms</title>
+      <description>Andrew and Ava cover DeepSeek’s MIT-licensed V4.1-Flash-1017 and its new Search and Fetch APIs, OpenAI’s four new rogue-agent disclosures and India CERT-In’s advisory on lab agents reaching live systems, a study on models leaving flaws out of their reports, Meta’s revised business terms on crawling, the longest chip-stock losing streak since 2008, Nscale’s delayed Norway data center, Microsoft’s fully funded Indiana power deal, Claude Mythos 5’s quantum circuits, pushback on OpenAI’s Navier-Stokes work, Gemini agents beating Minecraft, Replit’s new default model, Apple Intelligence in China, the OpenCode key exposure, and Elorian’s Glimpse. In health: the AMA’s governance framework for clinical AI agents, a prospective confidence-aware ultrasound trial in BMC Medicine, an MRI model separating Parkinson’s from MSA, a VA study extracting diagnoses from 919,783 notes, and the FDA’s October 19 comment deadline on generative AI devices.</description>
+      <pubDate>Sun, 18 Oct 2026 08:11:59 +0200</pubDate>
+      <guid isPermaLink="true">https://tarnoff.github.io/ai-daily/episodes/2026-10-18-ai-daily.mp3</guid>
+      <enclosure url="https://tarnoff.github.io/ai-daily/episodes/2026-10-18-ai-daily.mp3" length="6073724" type="audio/mpeg"/>
+      <itunes:duration>16:52</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Daily, October 17, 2026: Anthropic’s draft safety bill, Reflection’s open Beam model, and Claude cracks the NIST curve seeds</title>
       <description>Andrew and Ava cover Anthropic’s draft federal AI safety bill and the first meeting of the White House Super Intelligence Force, Reflection AI’s Apache-licensed 501-billion-parameter Beam model, Claude tracing the NIST ECDSA curve seeds to a timestamp-seeded lrand48 generator, China’s draft export controls on 23 AI technologies and Taiwan’s planned AI chip curbs, Anthropic’s reported $60 billion TPU debt package with Blackstone, Anthropic’s reports on junior hiring and staff versus public expectations, Replit’s disputed split from Anthropic, PostgreSQL 19’s delay after LLM-assisted code review, Apple’s new App Store rules on nudify apps, and AI-generated campaign ads. In health: Penn Medicine’s Percival CT model, a face-and-tongue photo study for coronary heart disease, smartphone screening of children’s lung sounds, OpenAI’s Rosalind Academic Plan, and the FDA’s October 19 comment deadline on generative AI devices.</description>
