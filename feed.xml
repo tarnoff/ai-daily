@@ -6,7 +6,7 @@
     <atom:link href="https://tarnoff.github.io/ai-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A two-host daily briefing on AI, including health.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 08:17:20 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 08:16:52 +0200</lastBuildDate>
     <itunes:author>Jeffrey Tarnoff</itunes:author>
     <itunes:summary>A two-host daily briefing on AI, including health.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -19,6 +19,16 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>AI Daily, October 20, 2026: A hacker’s AI-agent army, DHS bans DeepSeek from federal systems, and OpenAI races Anthropic’s IPO</title>
+      <description>Andrew and Ava cover Reuters’ exclusive on a Chinese-speaking hacker who used AI agents on the Cairn platform to breach more than 100 company websites, including Deere, SharkNinja, and Cummins, for about $50 per hack; the DHS order removing DeepSeek and products built on it from federal civilian systems; OpenAI’s accelerated $30 billion round at over $1.4 trillion ahead of Anthropic’s IPO; Microsoft’s agent risk controls and Guardian Agents; hidden chatbot instructions on WhatsApp’s help pages; the German government’s physical AI pact with Nvidia; Tenstorrent’s $1.5 billion raise; Inception’s Mercury 3 diffusion model; MiniMax M3.1 Flash and its hallucination rate; OpenAI on COBOL and other low-resource languages; and Disney’s Character.AI deal. In health: Mass General Brigham’s FAHR-Face model predicting cancer survival from a face photo, Penn Medicine’s Percival CT model, MIT’s E(3)-Pose for fetal brain MRI, AMA and AHA comments to the FDA on generative AI devices, and a Tanzania trial of AI-supported diabetic eye screening.</description>
+      <pubDate>Tue, 20 Oct 2026 08:16:52 +0200</pubDate>
+      <guid isPermaLink="true">https://tarnoff.github.io/ai-daily/episodes/2026-10-20-ai-daily.mp3</guid>
+      <enclosure url="https://tarnoff.github.io/ai-daily/episodes/2026-10-20-ai-daily.mp3" length="8136092" type="audio/mpeg"/>
+      <itunes:duration>22:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Daily, October 19, 2026: Anthropic’s Public Benefit Fund, Microsoft quits Nscale’s Essex site, and German courts hold Google liable for AI answers</title>
       <description>Andrew and Ava cover Anthropic’s new Public Benefit Fund, Microsoft walking away from Nscale’s Loughton data center over grid delays, the Aachen court ruling that treats Google’s AI search answers as its own statements, Anthropic’s first Canadian data center in Nova Scotia, San Francisco’s data center pause and SemiAnalysis’s count of what US moratoriums actually delay, the AI insurance gap, Apollo Research’s update-aware reasoning finding in GLM-5.3, the Taste-Bench agent judgment benchmark, GPT-6 Pro parallel agents and ChatGPT Slides, Mistral’s Timestral forecasting models, AI-generated midterm ads, and agents that spend money. In health: a JAMA study of 271 million clinician queries to OpenEvidence, the AI-INFOCARE trial of previsit AI summaries in Dresden, Google DeepMind’s agent-driven antimicrobial peptide search, the new JAMA AI journal, and today’s FDA comment deadline on generative AI devices.</description>
