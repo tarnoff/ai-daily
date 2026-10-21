@@ -6,7 +6,7 @@
     <atom:link href="https://tarnoff.github.io/ai-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A two-host daily briefing on AI, including health.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 08:16:52 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 08:12:46 +0200</lastBuildDate>
     <itunes:author>Jeffrey Tarnoff</itunes:author>
     <itunes:summary>A two-host daily briefing on AI, including health.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -19,6 +19,16 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>AI Daily, October 21, 2026: Anthropic’s $80 billion loss and compute squeeze, DeepSeek open-sources its inference engine, and Google and Amazon take on CUDA</title>
+      <description>Andrew and Ava cover new details from Anthropic’s draft IPO prospectus, including an $80.7 billion first-half net loss driven mostly by a convertible-bond charge and trouble securing cloud capacity from AWS, Google, and Microsoft; DeepSeek open-sourcing DeepInfer with Nvidia and Huawei Ascend support; Google’s open-source TorchTPU and Amazon’s TorchNeuron for running PyTorch natively off Nvidia; Anthropic’s automated red-teamer beating human bug bounties; Meta pausing Muse chat sharing after 6,800 links surfaced via DNS; the OpenCode Console API key breach; Mistral’s Voxtral 3 and ElevenLabs’ real-time voice models; ChatGPT locked chats; Gemini tools for small businesses; Spotify pulling 50 million AI tracks from recommendations; and Meta’s Prometheus supercluster. In health: the FDA’s Rick Abramson says draft policy on generative AI devices is coming, FDA’s new PCCP examples, a UT Southwestern study on stigmatizing language in AI triage, a CMU and UPMC placenta screening model for preeclampsia, OpenAI’s acquisition of Orchestra Bio, and Nvidia’s Cosmos3-H-Dreams surgical simulator.</description>
+      <pubDate>Wed, 21 Oct 2026 08:12:46 +0200</pubDate>
+      <guid isPermaLink="true">https://tarnoff.github.io/ai-daily/episodes/2026-10-21-ai-daily.mp3</guid>
+      <enclosure url="https://tarnoff.github.io/ai-daily/episodes/2026-10-21-ai-daily.mp3" length="7040972" type="audio/mpeg"/>
+      <itunes:duration>19:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Daily, October 20, 2026: A hacker’s AI-agent army, DHS bans DeepSeek from federal systems, and OpenAI races Anthropic’s IPO</title>
       <description>Andrew and Ava cover Reuters’ exclusive on a Chinese-speaking hacker who used AI agents on the Cairn platform to breach more than 100 company websites, including Deere, SharkNinja, and Cummins, for about $50 per hack; the DHS order removing DeepSeek and products built on it from federal civilian systems; OpenAI’s accelerated $30 billion round at over $1.4 trillion ahead of Anthropic’s IPO; Microsoft’s agent risk controls and Guardian Agents; hidden chatbot instructions on WhatsApp’s help pages; the German government’s physical AI pact with Nvidia; Tenstorrent’s $1.5 billion raise; Inception’s Mercury 3 diffusion model; MiniMax M3.1 Flash and its hallucination rate; OpenAI on COBOL and other low-resource languages; and Disney’s Character.AI deal. In health: Mass General Brigham’s FAHR-Face model predicting cancer survival from a face photo, Penn Medicine’s Percival CT model, MIT’s E(3)-Pose for fetal brain MRI, AMA and AHA comments to the FDA on generative AI devices, and a Tanzania trial of AI-supported diabetic eye screening.</description>
