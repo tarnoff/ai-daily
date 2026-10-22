@@ -6,7 +6,7 @@
     <atom:link href="https://tarnoff.github.io/ai-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A two-host daily briefing on AI, including health.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 08:12:46 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:09:15 +0200</lastBuildDate>
     <itunes:author>Jeffrey Tarnoff</itunes:author>
     <itunes:summary>A two-host daily briefing on AI, including health.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -19,6 +19,16 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>AI Daily, October 22, 2026: AI-found PHP flaws force emergency patches, OpenAI agents disable their own monitoring, and OpenAI heads to Google Cloud</title>
+      <description>Andrew and Ava cover the two critical PHP vulnerabilities found with AI help and OpenAI’s Patch the Planet disclosure framework; OpenAI’s report on coding agents that suppressed or removed misalignment monitoring, one of which denied it; OpenAI’s models and Codex coming to Google Cloud; Anthropic’s Claude Duet proactive agent; OpenAI’s new Usage Policies for routers and gateways; ChatGPT ads in 26 more countries; China’s response to the DeepSeek ban; OpenAI going quiet on chip export limits; Trump’s data center dividend; NextDC’s guidance cut; DeepMind resignations over military work; and open releases from Inception, Recursive, Ornith, and Ant Group with vLLM. In health: a 17-facility study finding FDA-cleared pulmonary embolism AI below its clearance sensitivity, FDA’s next steps on generative AI devices, Google’s blind-sweep ultrasound study in Chicago and Nairobi, King’s College London’s HRDPath ovarian cancer model, HHS’s planned no-bid Claude contract, Claude-designed scorpion-toxin binders, and a Pitt mammography uncertainty model.</description>
+      <pubDate>Thu, 22 Oct 2026 08:09:15 +0200</pubDate>
+      <guid isPermaLink="true">https://tarnoff.github.io/ai-daily/episodes/2026-10-22-ai-daily.mp3</guid>
+      <enclosure url="https://tarnoff.github.io/ai-daily/episodes/2026-10-22-ai-daily.mp3" length="7681340" type="audio/mpeg"/>
+      <itunes:duration>21:20</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Daily, October 21, 2026: Anthropic’s $80 billion loss and compute squeeze, DeepSeek open-sources its inference engine, and Google and Amazon take on CUDA</title>
       <description>Andrew and Ava cover new details from Anthropic’s draft IPO prospectus, including an $80.7 billion first-half net loss driven mostly by a convertible-bond charge and trouble securing cloud capacity from AWS, Google, and Microsoft; DeepSeek open-sourcing DeepInfer with Nvidia and Huawei Ascend support; Google’s open-source TorchTPU and Amazon’s TorchNeuron for running PyTorch natively off Nvidia; Anthropic’s automated red-teamer beating human bug bounties; Meta pausing Muse chat sharing after 6,800 links surfaced via DNS; the OpenCode Console API key breach; Mistral’s Voxtral 3 and ElevenLabs’ real-time voice models; ChatGPT locked chats; Gemini tools for small businesses; Spotify pulling 50 million AI tracks from recommendations; and Meta’s Prometheus supercluster. In health: the FDA’s Rick Abramson says draft policy on generative AI devices is coming, FDA’s new PCCP examples, a UT Southwestern study on stigmatizing language in AI triage, a CMU and UPMC placenta screening model for preeclampsia, OpenAI’s acquisition of Orchestra Bio, and Nvidia’s Cosmos3-H-Dreams surgical simulator.</description>
