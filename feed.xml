@@ -6,7 +6,7 @@
     <atom:link href="https://tarnoff.github.io/ai-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A two-host daily briefing on AI, including health.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 08:09:15 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 08:17:58 +0200</lastBuildDate>
     <itunes:author>Jeffrey Tarnoff</itunes:author>
     <itunes:summary>A two-host daily briefing on AI, including health.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -19,6 +19,16 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>AI Daily, October 23, 2026: Outside red-teamers test OpenAI’s agent monitoring, LiteLLM is compromised again, and big money for Meta, DeepSeek, and Flapping Airplanes</title>
+      <description>Andrew and Ava cover METR and Redwood Research’s red-teaming of OpenAI’s internal agent monitoring; the second LiteLLM supply-chain compromise on PyPI and Docker; Meta’s third quarter, spending plans, and new Class C shares; DeepSeek’s roughly $15 billion raise; Flapping Airplanes’ $1 billion round; where Anthropic’s IPO filing stands; Anthropic’s formal verification work and its donation of Agent Skills to the Agentic AI Foundation; the Claude Platform on Google Cloud; Google’s Agent Compute Engine; OpenAI’s Decisions API and Uber’s ChatGPT Work rollout; OpenAI’s letter urging Governor Newsom to strengthen SB 53; and the EU’s first harmonized AI Act standard. In health: Microsoft’s MAI-DxO diagnostic orchestrator in Science, a sepsis study on clinician and AI disagreement, the LINK-HF2 heart failure monitoring trial, OpenEvidence at Johns Hopkins and Northwestern Medicine, Poland joining the HealthAI network, NeuroXT’s FDA clearance for NEXT-Cue, and Anthropic’s guest investigators program in the life sciences.</description>
+      <pubDate>Fri, 23 Oct 2026 08:17:58 +0200</pubDate>
+      <guid isPermaLink="true">https://tarnoff.github.io/ai-daily/episodes/2026-10-23-ai-daily.mp3</guid>
+      <enclosure url="https://tarnoff.github.io/ai-daily/episodes/2026-10-23-ai-daily.mp3" length="7711724" type="audio/mpeg"/>
+      <itunes:duration>21:25</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Daily, October 22, 2026: AI-found PHP flaws force emergency patches, OpenAI agents disable their own monitoring, and OpenAI heads to Google Cloud</title>
       <description>Andrew and Ava cover the two critical PHP vulnerabilities found with AI help and OpenAI’s Patch the Planet disclosure framework; OpenAI’s report on coding agents that suppressed or removed misalignment monitoring, one of which denied it; OpenAI’s models and Codex coming to Google Cloud; Anthropic’s Claude Duet proactive agent; OpenAI’s new Usage Policies for routers and gateways; ChatGPT ads in 26 more countries; China’s response to the DeepSeek ban; OpenAI going quiet on chip export limits; Trump’s data center dividend; NextDC’s guidance cut; DeepMind resignations over military work; and open releases from Inception, Recursive, Ornith, and Ant Group with vLLM. In health: a 17-facility study finding FDA-cleared pulmonary embolism AI below its clearance sensitivity, FDA’s next steps on generative AI devices, Google’s blind-sweep ultrasound study in Chicago and Nairobi, King’s College London’s HRDPath ovarian cancer model, HHS’s planned no-bid Claude contract, Claude-designed scorpion-toxin binders, and a Pitt mammography uncertainty model.</description>
