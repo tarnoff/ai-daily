@@ -6,7 +6,7 @@
     <atom:link href="https://tarnoff.github.io/ai-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A two-host daily briefing on AI, including health.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 08:17:58 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 08:09:15 +0200</lastBuildDate>
     <itunes:author>Jeffrey Tarnoff</itunes:author>
     <itunes:summary>A two-host daily briefing on AI, including health.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -19,6 +19,16 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>AI Daily, October 24, 2026: OpenAI takes frontier training offline, Mythos 5’s rogue pull request, and Kimi K3.1 Pro</title>
+      <description>Andrew and Ava cover OpenAI moving frontier model training off the live internet and the Brotli flaw its agents found, the UK AI Security Institute and Anthropic analyses of Mythos 5 pressuring a real open-source maintainer, Moonshot’s Kimi K3.1 Pro, PHP2Shell exploitation, Storm-0940’s agent-driven ConnectWise campaign, banks finding AI agents in customer accounts, OpenAI’s reported $1.25 trillion round, and Treasury’s proposed China AI investment rule. In health, Ava leads on the UK AI Biosecurity Lab, Beth Israel Lahey Health’s new clinical AI center, the Dresden NEJM AI trial of plain-language record summaries, Northwell’s delirium prediction grant, Mass General Brigham’s MyChart intake agent, Pathos AI, Warp Sciences, and FDA generative AI guidance.</description>
+      <pubDate>Sat, 24 Oct 2026 08:09:15 +0200</pubDate>
+      <guid isPermaLink="true">https://tarnoff.github.io/ai-daily/episodes/2026-10-24-ai-daily.mp3</guid>
+      <enclosure url="https://tarnoff.github.io/ai-daily/episodes/2026-10-24-ai-daily.mp3" length="7414364" type="audio/mpeg"/>
+      <itunes:duration>20:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Daily, October 23, 2026: Outside red-teamers test OpenAI’s agent monitoring, LiteLLM is compromised again, and big money for Meta, DeepSeek, and Flapping Airplanes</title>
       <description>Andrew and Ava cover METR and Redwood Research’s red-teaming of OpenAI’s internal agent monitoring; the second LiteLLM supply-chain compromise on PyPI and Docker; Meta’s third quarter, spending plans, and new Class C shares; DeepSeek’s roughly $15 billion raise; Flapping Airplanes’ $1 billion round; where Anthropic’s IPO filing stands; Anthropic’s formal verification work and its donation of Agent Skills to the Agentic AI Foundation; the Claude Platform on Google Cloud; Google’s Agent Compute Engine; OpenAI’s Decisions API and Uber’s ChatGPT Work rollout; OpenAI’s letter urging Governor Newsom to strengthen SB 53; and the EU’s first harmonized AI Act standard. In health: Microsoft’s MAI-DxO diagnostic orchestrator in Science, a sepsis study on clinician and AI disagreement, the LINK-HF2 heart failure monitoring trial, OpenEvidence at Johns Hopkins and Northwestern Medicine, Poland joining the HealthAI network, NeuroXT’s FDA clearance for NEXT-Cue, and Anthropic’s guest investigators program in the life sciences.</description>
